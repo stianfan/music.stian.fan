@@ -5,7 +5,7 @@
 A modern, feature-rich web music player built with HTML, CSS, and JavaScript. <br>
 This project showcases custom music with an immersive user interface and dynamic audio visualization.
 </p>
-<img src="ss-mobile.jpg" alt="Player on Mobile" width="400">
+<img src="ss-mobile.jpg" alt="Player on Mobile" width="200">
 <img src="ss-big.png" alt="Player on Desktop" width="600">
 </div>
 
