@@ -15,7 +15,7 @@ Live at <a href="https://music.stian.fan">music.stian.fan</a>
 - 🎨 **Dynamic Theme Colors**: Automatically adapts the UI colors based on the current album artwork
 - 📊 **Real-time Audio Visualizer**: Built using the WebAudio API for an engaging visual experience
 - 📱 **Responsive Design**: Seamlessly works across desktop, tablet, and mobile devices
-- ⬇️ **Easy Downloads**: Download songs directly by clicking the artist name
+- ⬇️ **Easy Downloads**: Download songs directly by clicking the Download Button
 - 🎮 **Full Playback Controls**: 
   - Play/Pause
   - Next/Previous Track
